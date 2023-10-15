@@ -1,8 +1,7 @@
 # Text-Summarization
-End to End Text Summarization 
+End to End Text Summarization with the help of Text summarization pre-trained model in hugging face site. 
 
-
-## Workflows
+#### Workflows of updating files in each phase of project
 1. Update config.ymal
 2. Update params.yaml
 3. Update entity
