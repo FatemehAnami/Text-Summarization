@@ -1,5 +1,6 @@
 # Text-Summarization
-End to End Text Summarization with the help of Text summarization pre-trained model in hugging face site. 
+End to End Text Summarization with the help of Text summarization pre-trained model in hugging face site.
+- The name of selected pretrained model is "google/pegasus-cnn_dailymail" and the dataset is "samsum"
 
 #### Workflows of updating files in each phase of project
 1. Update config.ymal
